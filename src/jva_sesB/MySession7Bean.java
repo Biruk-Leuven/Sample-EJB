@@ -37,14 +37,14 @@ public class MySession7Bean {
     }
 
     //single update and delete
-        /*public void updateEmp(Integer updateId,String name)
+        public void updateEmp(Integer updateId,String name)
         { TblEmpEntity emp;
           emp = em.find(TblEmpEntity.class, updateId);
           if(emp != null) {
               emp.seteName(name);
               em.persist(emp);
           }
-        }*/
+        }
    /* public void deleteEmp(Integer deletedId)
     { TblEmpEntity emp;
         emp = em.find(TblEmpEntity.class, deletedId);
