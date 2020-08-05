@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Hello7:ejb">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hello7_ejb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Hello7/ejb/EJB" />
+      <element id="module-output" name="Hello7" />
+    </root>
+  </artifact>
+</component>
